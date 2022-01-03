@@ -76,6 +76,7 @@ li {
 .avatar {
     text-align: center;
     padding-top: 20px;
+    border-color: red;
 }
 
 .section-item a {
@@ -119,6 +120,7 @@ code {
     html {
         font-size: 16px;
     }
+
     .content {
         /* display: flex; */
         flex-direction: column;
