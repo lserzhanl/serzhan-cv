@@ -114,6 +114,22 @@ code {
     font-size: 16px;
 }
 
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.project {
+    width: 265px;
+    margin-bottom: 20px;
+    border: 7px solid #f6f6f6;
+}
+
+.project img {
+    width: 100%;
+}
+
 
 /* -------------------------------------------------------------------------------------- */
 @media (max-width: 719px) {
